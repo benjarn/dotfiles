@@ -1,0 +1,864 @@
+{
+	"folder_history":
+	[
+		"/home/marcus/programmering/anteckning",
+		"/home/marcus/Dropbox/private/programmering/Arduino",
+		"/home/marcus/programmering/java/android/sms_pc_sync",
+		"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll",
+		"/home/marcus/programmering/python/Flask-Project/file_site",
+		"/home/marcus/share_me",
+		"/home/marcus/programmering/python/dropbox",
+		"/home/marcus/programmering/python/scraper_project",
+		"/home/marcus/Dropbox/private/skola/latex/miljö",
+		"/home/marcus/Dropbox/private/skola/elfält/LabbbBBBb",
+		"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/solprojekt",
+		"/home/marcus/programmering/python/Flask-Project/starter_template",
+		"/home/marcus/Dropbox/private/programmering/Microprocessor/blinky",
+		"/home/marcus/Downloads/freertos/FreeRTOSV7.5.3/FreeRTOS",
+		"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131105-möte-4",
+		"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131104-möte-3",
+		"/home/marcus/programmering/python/Flask-Project/mblog"
+	],
+	"last_version": 3047,
+	"last_window_id": 55,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 681.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"try",
+						"try	Try/Except/Else"
+					]
+				]
+			},
+			"build_system": "Packages/User/pdflatex.sublime-build",
+			"command_palette":
+			{
+				"height": 52.0,
+				"selected_items":
+				[
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"up",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package co remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"VINA",
+						"Vintageous: Run Tests..."
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"packe",
+						"Package Control: List Packages"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"package c",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: d",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"actual",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"	",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"vim",
+						"Actual Vim: Monitor TTY"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 484.0,
+				"history":
+				[
+					"sublime.packages_path()",
+					"$file",
+					"1+1",
+					"clear",
+					"print name",
+					"name = \"name\"",
+					"for i < 10:",
+					"clear",
+					"exit",
+					"quit",
+					"help"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131205-möte-15/protokoll.tex",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/protokoll.tex",
+				"/home/marcus/Dropbox/private/programmering/Arduino/Lista.txt",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131202-möte-14/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/LaTeXSQ.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131128-möte-13/protokoll.tex",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-project",
+				"/home/marcus/.config/sublime-text-3/Packages/LaTeXSQ/LaTeXSQ.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/LaTeXSQ/README.md",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/untitled.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/pdflatex.sublime-build",
+				"/home/marcus/pdflatex.sublime-build",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131125-möte-12/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+				"/home/marcus/floobits/msgs.floobits.log",
+				"/home/marcus/floobits/share/olltre/test/test",
+				"/home/marcus/share_me/hej.tex",
+				"/home/marcus/floobits/share/olltre/test/FLOOBITS_README.md",
+				"/home/marcus/programmering/python/dropbox/config_init.py",
+				"/home/marcus/programmering/python/Flask-Project/file_site/app/__init__.py",
+				"/home/marcus/programmering/python/Flask-Project/file_site/app/templates/contents.html",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/solprojekt/solcell.txt",
+				"/home/marcus/.zshrc",
+				"/home/marcus/Dropbox/private/skola/latex/miljö/main.tex",
+				"/home/marcus/floobits/welcome.md",
+				"/home/marcus/.zshrc.bak",
+				"/home/marcus/Downloads/freertos/STM32F10x_StdPeriph_Lib_V3.5.0/Release_Notes.html",
+				"/home/marcus/start_trans.sh",
+				"/home/marcus/programmering/python/dropbox/working-draft.txt",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/readme.creole",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.sh",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.py",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/tmp/tmphxc21u",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131105-möte-4/protokoll.pdf",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131105-möte-4/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131104-möte-3/protokolls.tex"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mar",
+					"mind",
+					"presentation",
+					"text(presentation)",
+					"text()",
+					"falt"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"ant",
+						"~/programmering/anteckning/anteckningar.sublime-project"
+					],
+					[
+						"ardui",
+						"~/programmering/java/android/sms_pc_sync/android_app_sms_pc_sync.sublime-project"
+					],
+					[
+						"FI",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"fil",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"fi",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"sol",
+						"~/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 167.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1276.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"try",
+						"try	Try/Except/Else"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "anteckningar:\n\nfin python bar\nhttps://github.com/sahib/par.py\n\nbspwm, tiling window manager, fin tror jag...\nhttps://github.com/baskerville/bspwm/tree/master/examples\n\nbspwm tut\nhttps://github.com/windelicato/dotfiles/wiki/bspwm-for-dummies\n\ndep till bspwm:\nsxhkd\n\nValfria beroenden för bspwm\n    sxhkd: to define keyboard and pointer bindings\n    xtitle-git: for the example panels\n    sutils-git: for the example panels\n    bar-aint-recursive: for the example bar panel\n    dzen2: for the example dzen2 panel [installed]\n    txtw-git: for the example dzen2 panel\n    sres-git: for the example dzen2 panel\n    ttf-dejavu: for the example dzen2 panel [installed]",
+					"file": "anteckningar.txt",
+					"file_size": 663,
+					"file_write_time": 130311599628231362,
+					"settings":
+					{
+						"buffer_size": 662,
+						"line_ending": "Unix",
+						"name": "anteckningar"
+					}
+				},
+				{
+					"contents": "samma enheter mpg vs SI ex\n\nvar tar den ekoomiska aspekten för stimulera marknaden vägen ?\n\npartikelfilter?",
+					"file": "opposition",
+					"file_size": 0,
+					"file_write_time": 130313173104668356,
+					"settings":
+					{
+						"buffer_size": 107,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "style.new.css",
+					"settings":
+					{
+						"buffer_size": 57664,
+						"line_ending": "Unix",
+						"name": "/*"
+					}
+				}
+			],
+			"build_system": "Packages/User/pdflatex.sublime-build",
+			"command_palette":
+			{
+				"height": 232.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"up",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package co remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"VINA",
+						"Vintageous: Run Tests..."
+					],
+					[
+						"package control lis",
+						"Package Control: List Packages"
+					],
+					[
+						"packe",
+						"Package Control: List Packages"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"package c",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: d",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"actual",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"	",
+						"Actual Vim: Monitor TTY"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"vim",
+						"Actual Vim: Monitor TTY"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 484.0,
+				"history":
+				[
+					"sublime.packages_path()",
+					"$file",
+					"1+1",
+					"clear",
+					"print name",
+					"name = \"name\"",
+					"for i < 10:",
+					"clear",
+					"exit",
+					"quit",
+					"help"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/marcus/par.py/start_bar.sh",
+				"/home/marcus/.config/bspwm/bspwmrc",
+				"/home/marcus/.config/sxhkd/sxhkdrc",
+				"/home/marcus/.config/bspwm/panels/panel_dzen2.bak.new",
+				"/home/marcus/.config/bspwm/bspanel.sh",
+				"/home/marcus/.config/bspwm/conkyrc",
+				"/home/marcus/.config/bspwm/panels/panel_dzen2",
+				"/home/marcus/.config/bspwm/panels/panel.bak.new",
+				"/home/marcus/.Xdefaults",
+				"/home/marcus/.config/bspwm/panels/sxhkdrc",
+				"/home/marcus/.config/bspwm/panels/bspwmrc",
+				"/home/marcus/.i3status.conf",
+				"/home/marcus/.xinitrc.bak",
+				"/home/marcus/.xinitrc",
+				"/home/marcus/.xinitrc.bak.bspwm",
+				"/home/marcus/.start_tray.sh",
+				"/home/marcus/programmering/anteckning/anteckningar.sublime-project",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131205-möte-15/protokoll.tex",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/protokoll.tex",
+				"/home/marcus/Dropbox/private/programmering/Arduino/Lista.txt",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131202-möte-14/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/LaTeXSQ.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131128-möte-13/protokoll.tex",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-project",
+				"/home/marcus/.config/sublime-text-3/Packages/LaTeXSQ/LaTeXSQ.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/LaTeXSQ/README.md",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/untitled.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/pdflatex.sublime-build",
+				"/home/marcus/pdflatex.sublime-build",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131125-möte-12/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+				"/home/marcus/floobits/msgs.floobits.log",
+				"/home/marcus/floobits/share/olltre/test/test",
+				"/home/marcus/share_me/hej.tex",
+				"/home/marcus/floobits/share/olltre/test/FLOOBITS_README.md",
+				"/home/marcus/programmering/python/dropbox/config_init.py",
+				"/home/marcus/programmering/python/Flask-Project/file_site/app/__init__.py",
+				"/home/marcus/programmering/python/Flask-Project/file_site/app/templates/contents.html",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/solprojekt/solcell.txt",
+				"/home/marcus/.zshrc",
+				"/home/marcus/Dropbox/private/skola/latex/miljö/main.tex",
+				"/home/marcus/floobits/welcome.md",
+				"/home/marcus/.zshrc.bak",
+				"/home/marcus/Downloads/freertos/STM32F10x_StdPeriph_Lib_V3.5.0/Release_Notes.html",
+				"/home/marcus/start_trans.sh",
+				"/home/marcus/programmering/python/dropbox/working-draft.txt",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/readme.creole",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.sh",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.py",
+				"/home/marcus/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/tmp/tmphxc21u",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/marcus/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131105-möte-4/protokoll.pdf",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131105-möte-4/protokoll.tex",
+				"/home/marcus/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+				"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/131104-möte-3/protokolls.tex"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#5a5260",
+					"#302733",
+					"#0DFCE9",
+					"#ff5b5b",
+					"mar",
+					"mind",
+					"presentation",
+					"text(presentation)",
+					"text()",
+					"falt"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"#262626",
+					"#5a5260",
+					"#302733",
+					"#0DFCE9",
+					"#ff5b5b"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "anteckningar.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 662,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										63,
+										63
+									]
+								],
+								"settings":
+								{
+									"auto_name": "anteckningar",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "opposition",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107,
+										107
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "style.new.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 57664,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										57664,
+										57664
+									]
+								],
+								"settings":
+								{
+									"auto_name": "/*",
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5295.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,10,29,1266,706,1280,720",
+			"project": "anteckningar.sublime-project",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"solg",
+						"~/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-project"
+					],
+					[
+						"ant",
+						"~/programmering/anteckning/anteckningar.sublime-project"
+					],
+					[
+						"ardui",
+						"~/programmering/java/android/sms_pc_sync/android_app_sms_pc_sync.sublime-project"
+					],
+					[
+						"FI",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"fil",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"fi",
+						"~/programmering/python/Flask-Project/file_site/file_site.sublime-project"
+					],
+					[
+						"sol",
+						"~/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 167.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 55,
+			"workspace_name": "/home/marcus/programmering/anteckning/anteckningar.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/marcus/programmering/anteckning/anteckningar.sublime-workspace",
+			"/home/marcus/Dropbox/private/skola/miljö.och.eltektik/protokoll/solgrupp-möten.sublime-workspace",
+			"/home/marcus/Dropbox/private/programmering/Arduino/Arduino.sublime-workspace",
+			"/home/marcus/programmering/java/android/sms_pc_sync/android_app_sms_pc_sync.sublime-workspace",
+			"/home/marcus/programmering/python/Flask-Project/file_site/file_site.sublime-workspace",
+			"/home/marcus/floobits/share/olltre/test/floobits-test.sublime-workspace"
+		]
+	}
+}

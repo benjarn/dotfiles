@@ -1,0 +1,21 @@
+#! /bin/sh
+
+trap 'trap - TERM; kill 0' INT TERM QUIT EXIT
+
+panel_height=19 
+
+bspc config top_padding $panel_height
+bspc control --put-status
+#clock -sf 'T%a %H:%M' > "$PANEL_FIFO" &
+#conky > "$PANEL_FIFO" &
+
+. panel_colors
+
+#dzen2 panel
+#cat "$PANEL_FIFO" | panel_dzen2 -f "source code pro:medium" -s "13px" | dzen2 -h $panel_height -dock -ta l -title-name panel -fn "Source Code Pro:medium:pixelsize=13" -fg "$COLOR_FOREGROUND" -bg "$COLOR_BACKGROUND" &
+
+#xmobar
+cat "$PANEL_FIFO" | panel_xmobar | xmobar -d &
+sh ~/starttrayer.sh
+
+wait

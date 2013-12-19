@@ -1,0 +1,12 @@
+out_to_console yes
+out_to_x no
+update_interval 2.0
+
+TEXT
+|<fc=\#82B414>Musik</fc> <fc=\#DDDDDD>"\
+${if_match ${execi 5 expr length "`mpc --format %title% | head -n 1`"} >= 7}${scroll 7 3 ${mpd_title}}${else}${mpd_title}${endif}\
+"</fc> \
+|<fc=\#82B414>mem</fc> <fc=\#DDDDDD>${mem}</fc> \
+|<fc=\#FD971F>net</fc> <fc=\#DDDDDD>${wireless_essid wlan0} ${wireless_link_qual_perc wlan0}%</fc> \
+|<fc=\#8c54fe>bat</fc> <fc=\#DDDDDD>${battery BAT1}</fc> \
+|<fc=\#FD971F>${time %a %d/%m %H:%M}</fc>|

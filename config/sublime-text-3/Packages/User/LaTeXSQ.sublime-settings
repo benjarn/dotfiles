@@ -1,0 +1,12 @@
+{
+	"linux": {
+        // envirnoment path
+    	"path": "/usr/bin/texliveonfly:$PATH",
+
+		// path to sublime
+		"sublime": "/usr/bin/sublime3",
+
+		// which viewer to use: evince or okular (default is evince)
+		"viewer": "evince"
+	},
+}

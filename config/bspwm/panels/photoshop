@@ -1,0 +1,5 @@
+#! /bin/bash
+# Startar pixlr i firefox
+
+firefox http://pixlr.com/editor/
+

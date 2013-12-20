@@ -84,6 +84,9 @@ button{6,7}
 # wm independent hotkeys
 #
 
+super + F10
+    i3lock -i ~/Dropbox/Photos/bilder/grass_minimalist_png.png
+
 super + Return
     urxvt
 

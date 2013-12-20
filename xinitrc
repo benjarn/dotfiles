@@ -1,3 +1,11 @@
+# Program
+chromium &
+firefox &
+skype &
+pidgin &
+thunderbird &
+dropboxd &
+
 # saker som blir fina
 nitrogen --restore & # bakgrund
 xcompmgr & # transparens
@@ -11,11 +19,10 @@ setxkbmap -layout sv
 xset +fp /usr/share/fonts/local
 xset fp rehash
 
+panel &
 # Grovjobbet
 sxhkd &
 export PANEL_FIFO=/tmp/panel-fifo
 [ -e "$PANEL_FIFO" ] && rm "$PANEL_FIFO"
 mkfifo "$PANEL_FIFO"
 exec bspwm -s "$PANEL_FIFO" -p W
-
-panel &

@@ -1,0 +1,190 @@
+ <menu id="Grafik" label="Grafik" icon="/usr/share/icons/gnome/16x16/categories/gnome-graphics.png">
+      <item label="Dokumentvisare" icon="/usr/share/icons/hicolor/16x16/apps/evince.png">
+       <action name="Execute"><execute>evince </execute></action>
+     </item>
+      <item label="GNU:s bildmanipuleringsprogram" icon="/usr/share/icons/hicolor/16x16/apps/gimp.png">
+       <action name="Execute"><execute>gimp-2.8 </execute></action>
+     </item>
+      <item label="LibreOffice Draw" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-draw.png">
+       <action name="Execute"><execute>libreoffice --draw </execute></action>
+     </item>
+      <item label="Mirage" icon="/usr/share/pixmaps/mirage.png">
+       <action name="Execute"><execute>mirage </execute></action>
+     </item>
+ </menu> <!-- Grafik -->
+ <menu id="Internet" label="Internet" icon="/usr/share/icons/gnome/16x16/categories/gnome-globe.png">
+      <item label="Avahi SSH-serverbläddrare" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+       <action name="Execute"><execute>/usr/bin/bssh</execute></action>
+     </item>
+      <item label="Avahi VNC-serverbläddrare" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+       <action name="Execute"><execute>/usr/bin/bvnc</execute></action>
+     </item>
+      <item label="Chromium" icon="/usr/share/icons/hicolor/16x16/apps/chromium.png">
+       <action name="Execute"><execute>chromium </execute></action>
+     </item>
+      <item label="Dropbox" icon="/usr/share/pixmaps/dropbox.png">
+       <action name="Execute"><execute>dropboxd</execute></action>
+     </item>
+      <item label="Skype" icon="/usr/share/icons/hicolor/16x16/apps/skype.png">
+       <action name="Execute"><execute>skype </execute></action>
+     </item>
+      <item label="TeamViewer 8" icon="///opt/teamviewer8/tv_bin/desktop/teamviewer.png">
+       <action name="Execute"><execute>/opt/teamviewer8/tv_bin/script/teamviewer</execute></action>
+     </item>
+      <item label="Wicd" icon="/usr/share/icons/hicolor/16x16/apps/wicd-gtk.png">
+       <action name="Execute"><execute>/usr/bin/wicd-client</execute></action>
+     </item>
+      <item label="Zenmap" icon="///usr/share/zenmap/pixmaps/zenmap.png">
+       <action name="Execute"><execute>zenmap </execute></action>
+     </item>
+      <item label="Zenmap (as root)" icon="///usr/share/zenmap/pixmaps/zenmap.png">
+       <action name="Execute"><execute>/usr/share/zenmap/su-to-zenmap.sh </execute></action>
+     </item>
+ </menu> <!-- Internet -->
+ <menu id="Kontor" label="Kontor" icon="/usr/share/icons/gnome/16x16/categories/gnome-applications.png">
+      <item label="Dokumentvisare" icon="/usr/share/icons/hicolor/16x16/apps/evince.png">
+       <action name="Execute"><execute>evince </execute></action>
+     </item>
+      <item label="LibreOffice" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-startcenter.png">
+       <action name="Execute"><execute>libreoffice </execute></action>
+     </item>
+      <item label="LibreOffice Base" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-base.png">
+       <action name="Execute"><execute>libreoffice --base </execute></action>
+     </item>
+      <item label="LibreOffice Calc" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-calc.png">
+       <action name="Execute"><execute>libreoffice --calc </execute></action>
+     </item>
+      <item label="LibreOffice Draw" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-draw.png">
+       <action name="Execute"><execute>libreoffice --draw </execute></action>
+     </item>
+      <item label="LibreOffice Impress" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-impress.png">
+       <action name="Execute"><execute>libreoffice --impress </execute></action>
+     </item>
+      <item label="LibreOffice Writer" icon="/usr/share/icons/hicolor/16x16/apps/libreoffice-writer.png">
+       <action name="Execute"><execute>libreoffice --writer </execute></action>
+     </item>
+      <item label="Xpdf" icon="/usr/share/pixmaps/xpdf.xpm">
+       <action name="Execute"><execute>xpdf </execute></action>
+     </item>
+      <item label="ePDFViewer" icon="/usr/share/icons/hicolor/24x24/apps/epdfview.png">
+       <action name="Execute"><execute>epdfview </execute></action>
+     </item>
+ </menu> <!-- Kontor -->
+ <menu id="Ljud och video" label="Ljud och video" icon="/usr/share/icons/gnome/16x16/categories/gnome-multimedia.png">
+      <item label="GNOME MPlayer" icon="/usr/share/icons/hicolor/16x16/apps/gnome-mplayer.png">
+       <action name="Execute"><execute>gnome-mplayer </execute></action>
+     </item>
+      <item label="QT V4L2 test Utility" icon="/usr/share/icons/hicolor/16x16/apps/qv4l2.png">
+       <action name="Execute"><execute>qv4l2</execute></action>
+     </item>
+      <item label="VolWheel">
+       <action name="Execute"><execute>volwheel</execute></action>
+     </item>
+      <item label="XBMC Media Center" icon="/usr/share/icons/hicolor/48x48/apps/xbmc.png">
+       <action name="Execute"><execute>xbmc</execute></action>
+     </item>
+ </menu> <!-- Ljud och video -->
+ <menu id="Programmering" label="Programmering" icon="/usr/share/icons/gnome/16x16/categories/gnome-devel.png">
+      <item label="CMake" icon="/usr/share/pixmaps/CMakeSetup32.png">
+       <action name="Execute"><execute>cmake-gui </execute></action>
+     </item>
+      <item label="Eclipse" icon="/usr/share/icons/hicolor/32x32/apps/eclipse.png">
+       <action name="Execute"><execute>eclipse</execute></action>
+     </item>
+      <item label="MATLAB R2012a" icon="///usr/share/icons/matlab.png">
+       <action name="Execute"><execute>matlab -desktop</execute></action>
+     </item>
+      <item label="OpenJDK Monitoring &amp; Management Console" icon="/usr/share/icons/hicolor/16x16/apps/java.png">
+       <action name="Execute"><execute>/usr/bin/jconsole</execute></action>
+     </item>
+      <item label="OpenJDK Policy Tool" icon="/usr/share/icons/hicolor/16x16/apps/java.png">
+       <action name="Execute"><execute>/usr/bin/policytool</execute></action>
+     </item>
+      <item label="Qt4 Assistant " icon="/usr/share/icons/hicolor/32x32/apps/assistant-qt4.png">
+       <action name="Execute"><execute>assistant-qt4</execute></action>
+     </item>
+      <item label="Qt4 Designer" icon="/usr/share/icons/hicolor/128x128/apps/designer-qt4.png">
+       <action name="Execute"><execute>designer-qt4</execute></action>
+     </item>
+      <item label="Qt4 Linguist " icon="/usr/share/icons/hicolor/16x16/apps/linguist-qt4.png">
+       <action name="Execute"><execute>linguist-qt4</execute></action>
+     </item>
+      <item label="Qt4 QDbusViewer " icon="/usr/share/icons/hicolor/32x32/apps/qdbusviewer-qt4.png">
+       <action name="Execute"><execute>qdbusviewer-qt4</execute></action>
+     </item>
+ </menu> <!-- Programmering -->
+ <menu id="Spel" label="Spel" icon="/usr/share/icons/gnome/16x16/categories/gnome-joystick.png">
+      <item label="M64Py" icon="/usr/share/pixmaps/m64py.png">
+       <action name="Execute"><execute>m64py </execute></action>
+     </item>
+      <item label="SuperTuxKart" icon="/usr/share/pixmaps/supertuxkart.png">
+       <action name="Execute"><execute>supertuxkart --log=file</execute></action>
+     </item>
+ </menu> <!-- Spel -->
+ <menu id="Systemverktyg" label="Systemverktyg" icon="/usr/share/icons/gnome/16x16/categories/gnome-system.png">
+      <item label="Avahi Zeroconf-bläddrare" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+       <action name="Execute"><execute>/usr/bin/avahi-discover</execute></action>
+     </item>
+      <item label="Filhanteraren Thunar" icon="/usr/share/icons/hicolor/16x16/apps/Thunar.png">
+       <action name="Execute"><execute>thunar </execute></action>
+     </item>
+      <item label="GParted" icon="/usr/share/icons/hicolor/16x16/apps/gparted.png">
+       <action name="Execute"><execute>/usr/bin/gparted_polkit </execute></action>
+     </item>
+      <item label="Guake Terminal" icon="/usr/share/icons/hicolor/16x16/apps/guake.png">
+       <action name="Execute"><execute>guake</execute></action>
+     </item>
+      <item label="Massomdöpning" icon="/usr/share/icons/hicolor/16x16/apps/Thunar.png">
+       <action name="Execute"><execute>/usr/lib/Thunar/ThunarBulkRename </execute></action>
+     </item>
+      <item label="Menu" icon="///usr/share/icons/gnome/32x32/apps/help-browser.png">
+       <action name="Execute"><execute>xdotool key ctrl+alt+space</execute></action>
+     </item>
+      <item label="Oracle VM VirtualBox" icon="/usr/share/icons/hicolor/16x16/mimetypes/virtualbox.png">
+       <action name="Execute"><execute>VirtualBox </execute></action>
+     </item>
+      <item label="UNetbootin" icon="/usr/share/icons/hicolor/16x16/apps/unetbootin.png">
+       <action name="Execute"><execute>/usr/bin/unetbootin</execute></action>
+     </item>
+      <item label="UXTerm" icon="/usr/share/pixmaps/xterm-color_48x48.xpm">
+       <action name="Execute"><execute>uxterm</execute></action>
+     </item>
+      <item label="XTerm" icon="/usr/share/pixmaps/xterm-color_48x48.xpm">
+       <action name="Execute"><execute>xterm</execute></action>
+     </item>
+      <item label="dconf-redigerare" icon="/usr/share/icons/hicolor/16x16/apps/dconf-editor.png">
+       <action name="Execute"><execute>dconf-editor</execute></action>
+     </item>
+      <item label="urxvt" icon="/usr/share/icons/gnome/16x16/apps/utilities-terminal.png">
+       <action name="Execute"><execute>urxvt</execute></action>
+     </item>
+      <item label="urxvt (client)" icon="/usr/share/icons/gnome/16x16/apps/utilities-terminal.png">
+       <action name="Execute"><execute>urxvtc</execute></action>
+     </item>
+      <item label="urxvt (tabbed)" icon="/usr/share/icons/gnome/16x16/apps/utilities-terminal.png">
+       <action name="Execute"><execute>urxvt-tabbed</execute></action>
+     </item>
+ </menu> <!-- Systemverktyg -->
+ <menu id="Tillbehör" label="Tillbehör" icon="/usr/share/icons/gnome/16x16/categories/gnome-util.png">
+      <item label="7-Zip FM" icon="/usr/share/icons/hicolor/32x32/apps/p7zip.png">
+       <action name="Execute"><execute>7zFM</execute></action>
+     </item>
+      <item label="Leafpad" icon="/usr/share/icons/hicolor/16x16/apps/leafpad.png">
+       <action name="Execute"><execute>leafpad </execute></action>
+     </item>
+      <item label="Root-terminal" icon="/usr/share/pixmaps/gksu-root-terminal.png">
+       <action name="Execute"><execute>gksu -l gnome-terminal</execute></action>
+     </item>
+      <item label="Xarchiver" icon="/usr/share/icons/hicolor/16x16/apps/xarchiver.png">
+       <action name="Execute"><execute>xarchiver</execute></action>
+     </item>
+      <item label="gedit" icon="/usr/share/icons/gnome/16x16/apps/accessories-text-editor.png">
+       <action name="Execute"><execute>gedit </execute></action>
+     </item>
+      <item label="ownCloud 2012 client" icon="/usr/share/icons/hicolor/48x48/apps/mirall.png">
+       <action name="Execute"><execute>owncloud </execute></action>
+     </item>
+      <item label="ownCloud desktop sync client " icon="/usr/share/icons/hicolor/48x48/apps/owncloud.png">
+       <action name="Execute"><execute>owncloud</execute></action>
+     </item>
+ </menu> <!-- Tillbehör -->

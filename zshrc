@@ -114,7 +114,8 @@ alias 'fixwifi= sudo systemctl restart netctl-auto@wlan0'
 alias 'subl=sublime3'
 alias 'itkraft=sudo mount -t cifs "//192.168.1.50/hdd share" /media/itkraft -o user=marcus'
 
-alias 'sshxshell=ssh olltre@shell.xshellz.com'
+alias 'sshxshell=ssh benjarn@shell.xshellz.com'
+alias 'sshmiddle=ssh -R 22:localhost:9396 benjarn@shell.xshellz.com'
 
 # Short command aliases
 alias 'l=ls'

@@ -1,0 +1,11 @@
+# sketchupload.desktop - Send to Picasa
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+TryExec=sketchupload.sh
+Exec=sketchupload.sh %F
+Icon=picasa-16
+Name=Send to Picasa
+MimeType=image/png;
+

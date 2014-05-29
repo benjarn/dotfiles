@@ -13,6 +13,7 @@ olddir=~/dotfiles_old # old dotfiles backup directory
 files="vimrc vim zshrc zshenv Xdefaults xinitrc ncmcpp config/openbox config/ranger local/share/Thunar/sendto" 
 
 ##########
+nondots="scripts"
 
 # create dotfiles_old in homedir
 echo -n "Creating $olddir for backup of any existing dotfiles in ~ ..."
@@ -31,3 +32,14 @@ echo "Moving any existing dotfiles from ~ to $olddir"
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 done
+
+#Flyttar även icke-dots
+
+for file in $nondots; do
+echo "Moving any existing dotfiles from ~ to $olddir"
+    mv ~/$file ~/dotfiles_old/
+    echo "Creating symlink to $file in home directory."
+    ln -s $dir/$file ~/$file
+done
+
+

@@ -1,0 +1,13 @@
+# itkarft.desktop - Send to itkraft
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+TryExec=~/scripts/rsync-itkraft.se
+Exec=~/scripts/rsync-itkraft.sh %F
+Icon=picasa-16
+Name=Send to itKraft
+MimeType=image/png;
+
+# vilken mime??
+

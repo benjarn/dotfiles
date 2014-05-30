@@ -36,3 +36,6 @@ case $TERM in
   ;;
 esac
 
+# Lägger till mina gems...
+PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"
+

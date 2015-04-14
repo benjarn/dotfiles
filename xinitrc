@@ -11,20 +11,25 @@ fi
 skype &
 #pidgin &
 #thunderbird &
-dropboxd &
+#dropboxd &
 
 # saker som blir fina
 #nitrogen --restore & # bakgrund
 #xcompmgr & # transparens
+conky &
+
+xautolock -time 70 -locker "systemctl suspend" -detectsleep &
 
 # Funktioner
 xbindkeys & # knappfunktioner typ skarms
 xsetroot -cursor_name left_ptr
-setxkbmap -layout sv
+setxkbmap -layout se
 
 # Till bar
 #xset +fp /usr/share/fonts/local
 #xset fp rehash
+
+export LANG=sv_SE.UTF8
 
 #panel &
 # Grovjobbet

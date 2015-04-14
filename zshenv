@@ -38,4 +38,7 @@ esac
 
 # Lägger till mina gems...
 PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"
+PATH=$PATH:~/scripts
+export PATH
 
+alias 'algo=cd Dropbox/private/skola/AlgoritmerDatastrukturer/'

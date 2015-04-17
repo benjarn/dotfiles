@@ -1,24 +1,13 @@
 
 export XDG_CONFIG_HOME="$HOME/.config"
 
-## Bspwm
-export BSPWM_PATH="$XDG_CONFIG_HOME/bspwm"
-export BSPWM_SOCKET="/tmp/bspwm-socket"
-export BSPWM_TREE=/tmp/bspwm.tree
-export BSPWM_HISTORY=/tmp/bspwm.history
-export BSPWM_STACK=/tmp/bspwm.stack
-export PANEL_FIFO=/tmp/panel-fifo
-export PANEL_HEIGHT=14
-
-export PATH=$PATH:$XDG_CONFIG_HOME/bspwm/panels
-
-
 ## Nya ssh alias
 #
 
+
 alias "sshnitro=ssh action@euw1-2.nitrousbox.com -p 21157"
 alias 'smb-router=sudo mount -t cifs "//router/smb" /media/router -o user=marcus'
-
+alias 'wake-desktop=wol 1C:6F:65:90:3A:AC'
 case $TERM in
   (*xterm* | *rxvt* | screen)
 
@@ -37,5 +26,10 @@ case $TERM in
 esac
 
 # Lägger till mina gems...
-PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"
+#PATH="`ruby -e 'puts Gem.user_dir'`/bin:$PATH"
 
+#ssh vpn alias
+alias "sshproxy=ssh -Nn -D 1080 marcus@itkraft.se -p 44"
+alias 'moshit=mosh --ssh="ssh -p 44" itkraft.se -p 60001'
+alias 'kandidat=cd /home/marcus/Dropbox/private/skola/kandidat'
+alias 'algo=cd /home/marcus/Dropbox/private/skola/AlgoritmerDatastrukturer'

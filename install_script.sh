@@ -10,7 +10,7 @@ dir=~/dotfiles # dotfiles directory
 olddir=~/dotfiles_old # old dotfiles backup directory
 
 # list of files/folders to symlink in homedir
-files="vimrc vim zshrc zshenv Xdefaults xinitrc ncmcpp config/openbox config/ranger local/share/Thunar/sendto" 
+files="vimrc vim zshrc zshenv Xdefaults " 
 
 ##########
 nondots="scripts"

@@ -33,3 +33,16 @@ alias "sshproxy=ssh -Nn -D 1080 marcus@itkraft.se -p 44"
 alias 'moshit=mosh --ssh="ssh -p 44" itkraft.se -p 60001'
 alias 'kandidat=cd /home/marcus/Dropbox/private/skola/kandidat'
 alias 'algo=cd /home/marcus/Dropbox/private/skola/AlgoritmerDatastrukturer'
+
+#annat godis
+alias ytmp3="youtube-dl \
+    --ignore-errors \
+    --extract-audio \
+    --audio-format 'mp3' \
+    --audio-quality 320K \
+    --output '~/music/%(title)s.%(ext)s' \
+    --add-metadata \
+    --metadata-from-title '%(artist)s - %(title)s' \
+    --embed-thumbnail"
+
+export GOPATH=$HOME/go

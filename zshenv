@@ -36,6 +36,7 @@ alias 'algo=cd /home/marcus/Dropbox/private/skola/AlgoritmerDatastrukturer'
 
 #annat godis
 alias ytmp3="youtube-dl \
+    --default-search=ytsearch: \
     --ignore-errors \
     --extract-audio \
     --audio-format 'mp3' \

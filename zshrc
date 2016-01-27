@@ -504,3 +504,6 @@ fi
 # Get round annoyance in Gentoo
 # (No idea if this is needed any more)
 source $HOME/.zshenv
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"

@@ -36,6 +36,7 @@ alias 'algo=cd /home/marcus/Dropbox/private/skola/AlgoritmerDatastrukturer'
 
 #annat godis
 alias ytmp3="youtube-dl \
+    --default-search=ytsearch: \
     --ignore-errors \
     --extract-audio \
     --audio-format 'mp3' \
@@ -44,5 +45,9 @@ alias ytmp3="youtube-dl \
     --add-metadata \
     --metadata-from-title '%(artist)s - %(title)s' \
     --embed-thumbnail"
-
+function ytmp3_list {
+    while read p; do
+        ytmp3 $p
+    done <$1
+}
 export GOPATH=$HOME/go
